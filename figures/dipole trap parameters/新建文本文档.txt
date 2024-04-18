@@ -1,0 +1,8 @@
+TOF， dipole trap power 1W C:\Users\AMO lab\Documents\Rydberg Data\2024\0111\4
+code: C:\Users\AMO lab\Documents\Rydberg Data\2024\0111\1\DipoletrapTOF.ipynb
+
+Lifetime, OD vs. time C:\Users\AMO lab\Documents\Rydberg Data\2024\0116\5
+code: C:\Users\AMO lab\Documents\Rydberg Data\2024\0116\ODvstime.ipynb
+
+OD vs. Dipole trap power: C:\Users\AMO lab\Documents\Rydberg Data\2024\0105\6
+code: C:\Users\AMO lab\Documents\Rydberg Data\2024\0105\ODvsA.ipynb
