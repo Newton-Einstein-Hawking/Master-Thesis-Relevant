@@ -1,0 +1,2 @@
+sigma_x_0 = 0.183 mm, beam size = 0.732 mm, temperature = 50.475uK, t0 =-1.854 ms
+sigma_y_0 = 0.018 mm, beam size = 0.073 mm, temperature = 49.828uK, t0 =-2.446 ms
